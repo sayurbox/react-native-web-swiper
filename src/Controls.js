@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View } from './PlatformAPI';
 
 import { nodeType } from './nodeType';
 import { renderNode } from './renderNode';
