@@ -1,6 +1,6 @@
 import React, { cloneElement } from 'react';
 import PropTypes from 'prop-types';
-import { Animated, I18nManager, PanResponder, StyleSheet, View } from 'react-native';
+import { Animated, I18nManager, PanResponder, StyleSheet, View } from './PlatformAPI';
 
 import DefaultControls from './Controls';
 

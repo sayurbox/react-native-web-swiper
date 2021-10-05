@@ -24,7 +24,8 @@
     "prop-types": "^15.6.2"
   },
   "peerDependencies": {
-    "react-native": "*"
+    "react-native": "*",
+    "react-native-web": "*"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",

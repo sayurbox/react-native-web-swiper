@@ -1,0 +1,1 @@
+export {Animated, I18nManager, PanResponder, StyleSheet, Text, View, TouchableOpacity} from 'react-native-web';
